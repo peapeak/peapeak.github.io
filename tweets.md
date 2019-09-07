@@ -1,3 +1,11 @@
+# @malware_traffic
+## 2019-09-06 20:55:26
+## And here's that #Qakbot (#Qbot) infection persistent on my infected Windows host.pic.twitter.com/Ug2jAavJvU
+## https://twitter.com/malware_traffic/status/1170078073234055168<br><br><br><br><br>
+# @MalwarePatrol
+## 2019-09-06 23:00:31
+## Malware Classification with ‘Graph Hash,’ Applied to the Orca Cyberespionage Campaign. https://blog.trendmicro.com/trendlabs-security-intelligence/malware-classification-with-graph-hash-applied-to-the-orca-cyberespionage-campaign/ … via @TrendMicroRSRCHpic.twitter.com/i7ENPhoLRm
+## https://twitter.com/MalwarePatrol/status/1170109550894157825<br><br><br><br><br>
 # @Anomali
 ## 2019-09-06 15:04:33
 ## Researchers at @IBMSecurity have identified a series of attacks targeting e-commerce websites as being perpetrated by the threat group dubbed ”ITG08,” or more commonly known as FIN6. https://hubs.ly/H0kBBtL0 pic.twitter.com/ZM7OOapzTs
