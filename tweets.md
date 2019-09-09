@@ -1,3 +1,96 @@
+# @QW5kcmV3
+## 2019-09-08 16:11:00
+## Marketing? Always. However, the point is adversaries have threat models as well. Using SLINGSHOT as an example, the CNO either didn't account for that vendor as a threat to that operation, OR they accepted the risk. Either way, a persistent threat actor burned the operation.
+## https://twitter.com/QW5kcmV3/status/1170731271758200832<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-08 16:27:41
+## The clusters we track associated with that code family are suspected to be operating on the Korean Peninsula. However, this is just a five minute review of what they dumped, so more will likely come out this week as people get over their hangovers. #threatintelpic.twitter.com/dSpkSAk2nr
+## https://twitter.com/QW5kcmV3/status/1170735467727392768<br><br><br><br><br>
+# @ZDNet
+## 2019-09-08 12:46:15
+## Terrorism, espionage, and cyber: ASIO's omne trium perfectumhttps://www.zdnet.com/article/terrorism-espionage-and-cyber-asios-omne-trium-perfectum/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d74f7f64b188d00011be4c7&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1170679741277511680<br><br><br><br><br>
+# @threatmeter
+## 2019-09-08 13:34:34
+## Buckeye: Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak: Key Findings The Buckeye attack…https://goo.gl/fb/9Ta6gf 
+## https://twitter.com/threatmeter/status/1170691900418011136<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-08 11:58:31
+## I remember a training investigation I had to do that used Metasploit as the actor's platform. I remember dismissively regurgitating what was the party line: "real APT aren't going to use this." Then came the reality. Is Turla a "real" APT? How about APT39? FIN6? FIN7?
+## https://twitter.com/QW5kcmV3/status/1170667730619514881<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-08 12:08:24
+## On the higher end, sure. We have examples (link below) of custom integrations, so there's no need to guess, but a lot of actors use no to low modifications and do just fine. In any case, we're out of the ego stroking "that's for skiddies" phase.https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/ …
+## https://twitter.com/QW5kcmV3/status/1170670216424148994<br><br><br><br><br>
+# @threatmeter
+## 2019-09-08 09:44:30
+## Nexos - Real Estate WordPress Theme SQL Injection & Persistent XSS: Topic: Nexos - Real Estate WordPress Theme SQL… https://goo.gl/fb/x7NFwR 
+## https://twitter.com/threatmeter/status/1170634004262871040<br><br><br><br><br>
+# @threatmeter
+## 2019-09-08 09:59:23
+## Nexos - Real Estate WordPress Theme SQL Injection & Persistent XSS: # Exploit Title: Nexos - Real Estate WordPress… https://goo.gl/fb/bU4MB6 
+## https://twitter.com/threatmeter/status/1170637749910757376<br><br><br><br><br>
+# @bad_packets
+## 2019-09-07 20:00:05
+## Disregard, we've determined notifying government CERT teams around the world about a critical vulnerability impacting their infrastructure is not a suitable task for ProtonMail.
+## https://twitter.com/bad_packets/status/1170426533065846784<br><br><br><br><br>
+# @shotgunner101
+## 2019-09-07 18:41:19
+## So @derbycon #derbycon night 1 was a success. Question is will I reach peak hydration before derbycon night 2 so I dont have a hangover tommorow too 
+## https://twitter.com/shotgunner101/status/1170406710227460096<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-07 18:00:10
+## Government agencies are the high-profile targets that #cybercriminals dream of infiltrating. Watch this #webinarondemand and connect with our experts today and see how #BlackBerryCylance can prevent advanced threats that traditional AV cannot. https://bit.ly/2MLgA7u pic.twitter.com/MZvzd8x0CW
+## https://twitter.com/cylanceinc/status/1170396352876036096<br><br><br><br><br>
+# @threatmeter
+## 2019-09-07 17:29:19
+## Security Architecture Anti-Patterns by UK Government National Cyber Security Centre: The first anti-pattern is…https://goo.gl/fb/5P86gj 
+## https://twitter.com/threatmeter/status/1170388591664492544<br><br><br><br><br>
+# @RecordedFuture
+## 2019-09-07 15:49:00
+## Encrypted communication has risen in popularity in recent years, creating challenges for governments in addressing terrorism, #cybercrimes, and more: http://bit.ly/2MvyA5F  #ThreatIntelligencepic.twitter.com/n9T0wZFMav
+## https://twitter.com/RecordedFuture/status/1170363344156536834<br><br><br><br><br>
+# @threatmeter
+## 2019-09-07 15:44:42
+## Chinese Group Built Advanced Trojan by Reverse Engineering NSA Attack Tool: APT3 quietly monitored an NSA attack… https://goo.gl/fb/MLNggu 
+## https://twitter.com/threatmeter/status/1170362264735617024<br><br><br><br><br>
+# @threatmeter
+## 2019-09-07 13:49:15
+## China's APT3 Pilfers Cyberweapons from the NSA - Threatpost: APT3 (a.k.a Buckeye or UPS Team) from there went on…https://goo.gl/fb/uz1BQW 
+## https://twitter.com/threatmeter/status/1170333209994891266<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-07 12:40:05
+## APT39  has also used a custom SSH tool for tunneling. I named it QANAT:
+## 
+## "Persians started constructing elaborate tunnel systems called qanats for extracting groundwater in the dry mountain basins of present-day Iran."
+## 
+## http://www.waterhistory.org/histories/qanats/ …pic.twitter.com/Fl4T9OwQhM
+## https://twitter.com/QW5kcmV3/status/1170315802526060545<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-07 12:44:06
+## Funny story, the PDB path for this custom tool has the word "exploit" in it, but it is merely an SSH tool. There was passionate debate about whether it was actually "malware" because it doesn't have inherently malicious functionality. Except APT39 wrote it for CNO.https://twitter.com/QW5kcmV3/status/1170315802526060545 …
+## https://twitter.com/QW5kcmV3/status/1170316813860777984<br><br><br><br><br>
+# @TrendMicro
+## 2019-09-07 14:00:01
+## Next week, @TrendMicro researcher @JaromirHorejsi will talk about the threat actor group #MuddyWater at #BalCCon2k19. More on this research:  http://bit.ly/2F1kyDA pic.twitter.com/0aTOhhmzIV
+## https://twitter.com/TrendMicroRSRCH/status/1170335918462574598<br><br><br><br><br>
+# @TrendMicroRSRCH
+## 2019-09-07 14:00:01
+## Next week, @TrendMicro researcher @JaromirHorejsi will talk about the threat actor group #MuddyWater at #BalCCon2k19. More on this research:  http://bit.ly/2F1kyDA pic.twitter.com/0aTOhhmzIV
+## https://twitter.com/TrendMicroRSRCH/status/1170335918462574598<br><br><br><br><br>
+# @CyberSecInt
+## 2019-09-07 11:00:45
+## Poland has detected potential Chinese espionage | Reutershttps://af.reuters.com/article/idAFKCN1VN12K …
+## https://twitter.com/CyberSecInt/status/1170290803006148609<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-07 10:00:05
+## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/ByKfz1jNBZ
+## https://twitter.com/cylanceinc/status/1170275535664099328<br><br><br><br><br>
+# @threatpost
+## 2019-09-07 00:00:00
+## China’s #APT3 has pilfered cyberweapons from the #NSA, researchers warn.
+## https://threatpost.com/chinas-apt3-pilfers-cyberweapons-nsa/148086/ …
+## https://twitter.com/threatpost/status/1170124522068033536<br><br><br><br><br>
 # @malware_traffic
 ## 2019-09-06 20:55:26
 ## And here's that #Qakbot (#Qbot) infection persistent on my infected Windows host.pic.twitter.com/Ug2jAavJvU
