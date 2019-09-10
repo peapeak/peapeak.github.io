@@ -288,6 +288,7 @@
     <script>
         $.get('./test.md', function(response, status, xhr){
             $("#ioc").html(marked(response));
+          $("table").addClass("table table-dark");
         });
     </script>
   </body>
