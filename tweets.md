@@ -1,3 +1,11 @@
+# @Arkbird_SOLG
+## 2019-09-10 13:26:21
+## Hi, this is the second variant of the AstraDownloader, interesting to see the pdb is compiled as the demand and the structure of the infrastructure is the same. I have post on my analysis of Bitter with the reference to the Unit42 analysis. (all variants)https://unit42.paloaltonetworks.com/multiple-artradownloader-variants-used-by-bitter-to-target-pakistan/ …
+## https://twitter.com/Arkbird_SOLG/status/1171414610005692420<br><br><br><br><br>
+# @ZDNet
+## 2019-09-10 13:31:13
+## Newly discovered cyber-espionage malware abuses Windows BITS servicehttps://www.zdnet.com/article/newly-discovered-cyber-espionage-malware-abuses-windows-bits-service/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d77a57b4b188d00011c0db0&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1171415833341583361<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-09-10 11:16:18
 ## #APT #Gorgon
