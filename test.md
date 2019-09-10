@@ -1,5 +1,15 @@
 | 项目 | 值 |
-| :-----| ---- |
+| :-----| :---- |
+| Update | 2019-09-10 13:35:38 |
+| Author | @securityaffairs |
+| Content | Symantec uncovered the link between #China-Linked #Thrip and #Billbug groups ...<br>https://securityaffairs.co/wordpress/91008/apt/thrip-link-billbug.html â¦<br>#securityaffairs #APT #hacking #malware<br>https://twitter.com/securityaffairs/status/1171416947562549248<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1171416947562549248 |
+| #### | #### |
+| Update | 2019-09-10 14:00:59 |
+| Author | @attcyber |
+| Content | Should small business owners concern themselves with business espionage? http://ow.ly/VeTp50w48Oh  New blog by Tony Tomov explores why it's particullarly problematic for smaller, less security-savvy companies.pic.twitter.com/Cbw6OWdi6l<br>https://twitter.com/attcyber/status/1171423326012661760<br> |
+| Twitter | https://twitter.com/attcyber/status/1171423326012661760 |
+| #### | #### |
 | Update | 2019-09-10 13:26:21 |
 | Author | @Arkbird_SOLG |
 | Content | Hi, this is the second variant of the AstraDownloader, interesting to see the pdb is compiled as the demand and the structure of the infrastructure is the same. I have post on my analysis of Bitter with the reference to the Unit42 analysis. (all variants)https://unit42.paloaltonetworks.com/multiple-artradownloader-variants-used-by-bitter-to-target-pakistan/ â¦<br>https://twitter.com/Arkbird_SOLG/status/1171414610005692420<br> |
