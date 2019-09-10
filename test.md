@@ -1,5 +1,501 @@
 | 项目 | 值 |
 | :-----| ---- |
+| Update | 2019-09-10 11:16:18 |
+| Author | @Rmy_Reserve |
+| Content | #APT #Gorgon<br>ITW:<br>A137185171B1176FC125A74250928933<br><br>The old technique<br>https://twitter.com/Rmy_Reserve/status/1171381881461338112<br> |
+| Twitter | https://twitter.com/Rmy_Reserve/status/1171381881461338112 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 11:00:00 |
+| Author | @Anomali |
+| Content | @ESET Discovers Backdoor Linked to Stealth Falcon Group https://hubs.ly/H0kGNjQ0  by @InfosecurityMagpic.twitter.com/f9viQYLIxn<br>https://twitter.com/Anomali/status/1171377778987622403<br> |
+| Twitter | https://twitter.com/Anomali/status/1171377778987622403 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 08:46:11 |
+| Author | @ZDNet |
+| Content | Newly discovered cyber-espionage malware abuses Windows BITS servicehttps://www.zdnet.com/article/newly-discovered-cyber-espionage-malware-abuses-windows-bits-service/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d7762b7145a570001542ffc&utm_medium=trueAnthem&utm_source=twitter â¦<br>https://twitter.com/ZDNet/status/1171344102337777664<br> |
+| Twitter | https://twitter.com/ZDNet/status/1171344102337777664 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 10:02:14 |
+| Author | @QW5kcmV3 |
+| Content | I think that's what better looks like. I don't think that's the only course of action. I think that's the better course of action. I think if left unchecked, more coercive options may come to fruition over time. Lawsuits and government regulation aren't unimaginable.<br>https://twitter.com/QW5kcmV3/status/1171363243912302593<br> |
+| Twitter | https://twitter.com/QW5kcmV3/status/1171363243912302593 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 07:00:05 |
+| Author | @cylanceinc |
+| Content | #BlackBerryCylance vs.Traditional Security Approaches: Understanding Drives Informed Decisions. BlackBerry Cylance uses #AI to deliver #security solutions that change how organizations, governments, and end-users approach #endpointsecurity. Learn more: https://bit.ly/2HFGubb pic.twitter.com/k2nVMTIerw<br>https://twitter.com/cylanceinc/status/1171317400706437120<br> |
+| Twitter | https://twitter.com/cylanceinc/status/1171317400706437120 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 07:09:07 |
+| Author | @threatmeter |
+| Content | Selio - Real Estate Directory SQL Injection & Persistent XSS Topic: Selio - Real Estate Directory SQL Injection & Persistent XSS Risk: Medium Text:# Exploit Title: Selio - Real Estate Directory SQL Injection & Persistent XSS  # Google Dork: -  # Date: 08â¦ https://ift.tt/2ZOIM0a<br>https://twitter.com/threatmeter/status/1171319675382378496<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171319675382378496 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 07:09:07 |
+| Author | @threatmeter |
+| Content | Reality | Estate Multipurpose WordPress Theme Persistent XSS Topic: Reality | Estate Multipurpose WordPress Theme Persistent XSS Risk: Low Text:# Exploit Title: Reality | Estate Multipurpose WordPress Theme Persistent XSS  # Google Dork: "/wp-content/theâ¦ https://ift.tt/318RJxY<br>https://twitter.com/threatmeter/status/1171319677265559552<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171319677265559552 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 06:29:17 |
+| Author | @securityaffairs |
+| Content | Symantec uncovered the link between #China-Linked #Thrip and #Billbug groups<br>https://securityaffairs.co/wordpress/91008/apt/thrip-link-billbug.html â¦<br>#securityaffairs #APT #hacking #malware<br>https://twitter.com/securityaffairs/status/1171309649729130496<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1171309649729130496 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 06:08:41 |
+| Author | @shotgunner101 |
+| Content | Agree<br>1) There is a wide variety of tools being used by threat actors, and some are difficult to properly detect.<br>2) Groups sharing tools makes things harder for attribution(again benefits InfoSec companies+government and not non-InfoSec companies).<br>https://twitter.com/shotgunner101/status/1171304465917517824<br> |
+| Twitter | https://twitter.com/shotgunner101/status/1171304465917517824 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 04:08:50 |
+| Author | @blackorbird |
+| Content | #APT  vs<br>#Lazarus Eleven Sample:<br>https://github.com/blackorbird/APT_REPORT/tree/master/International%20Strategic/Korea/usa-catch â¦<br>First Picture is their Commonality.<br>Analysis:<br>1ãhttps://www.us-cert.gov/ncas/analysis-reports/ar19-252b â¦<br>2ãhttps://www.us-cert.gov/ncas/analysis-reports/ar19-252a â¦<br>DPRK Operation list:<br>https://www.us-cert.gov/HIDDEN-COBRA-North-Korean-Malicious-Cyber-Activity â¦pic.twitter.com/OQRfKKV1iW<br>https://twitter.com/blackorbird/status/1171274306065596418<br> |
+| Twitter | https://twitter.com/blackorbird/status/1171274306065596418 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-10 00:34:58 |
+| Author | @Arkbird_SOLG |
+| Content | #APT #Gamaredon<br>Quick analysis on the new samples released and show that the TTPs and C2 are the same for target Ukrainian Military exercise with Romania and other targets on Ukraine.https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Russia/APT/Gamaredon/09-09-19/New%20samples%20with%20the%20same%20TTPs%20from%20the%20August%20campaign.md â¦<br>https://twitter.com/Arkbird_SOLG/status/1171220484614184966<br> |
+| Twitter | https://twitter.com/Arkbird_SOLG/status/1171220484614184966 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 21:32:12 |
+| Author | @QW5kcmV3 |
+| Content | Since #DPRK  is so hot  right now. #APT38 also used DARKCOMET.  https://content.fireeye.com/apt/rpt-apt38 https://twitter.com/QW5kcmV3/status/1169927947173662721 â¦<br>https://twitter.com/QW5kcmV3/status/1171174488689561600<br> |
+| Twitter | https://twitter.com/QW5kcmV3/status/1171174488689561600 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 22:16:06 |
+| Author | @QW5kcmV3 |
+| Content | Even if an actor decides to abandon a project, there is no shortage of new ones available. APT33 is probably one of the best examples of an actor that literally just bounces around from open source project to the next in order to conduct catastrophic intrusions. It's published.<br>https://twitter.com/QW5kcmV3/status/1171185539636219905<br> |
+| Twitter | https://twitter.com/QW5kcmV3/status/1171185539636219905 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 20:15:57 |
+| Author | @ZDNet |
+| Content | Newly discovered cyber-espionage malware abuses Windows BITS service https://www.zdnet.com/article/newly-discovered-cyber-espionage-malware-abuses-windows-bits-service/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d76b2e8145a570001542538&utm_medium=trueAnthem&utm_source=twitter â¦<br>https://twitter.com/ZDNet/status/1171155302080819202<br> |
+| Twitter | https://twitter.com/ZDNet/status/1171155302080819202 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 20:34:09 |
+| Author | @MalwarePatrol |
+| Content | Newly discovered cyber-espionage #malware abuses #Windows BITS service https://zd.net/34AAmIv  via @ZDNet & @campuscodi<br>https://twitter.com/MalwarePatrol/status/1171159881245777920<br> |
+| Twitter | https://twitter.com/MalwarePatrol/status/1171159881245777920 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 19:00:14 |
+| Author | @symantec |
+| Content | Our researchers first exposed the Thrip espionage group last year.<br><br>One year later, attacks continue and weâve uncovered new links https://symc.ly/2N8rUeo<br>https://twitter.com/symantec/status/1171136247164809217<br> |
+| Twitter | https://twitter.com/symantec/status/1171136247164809217 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 18:38:44 |
+| Author | @threatpost |
+| Content | The Stealth Falcon cyberespionage group has adopted a new backdoor using the #Windows BITS service in ongoing #spyware attacks against dissidents in the Middle East.https://threatpost.com/stealth-falcon-middle-east-windows-bits/148136/ â¦<br>https://twitter.com/threatpost/status/1171130835807932416<br> |
+| Twitter | https://twitter.com/threatpost/status/1171130835807932416 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 19:00:09 |
+| Author | @FireEye |
+| Content | WEBINAR | #Electionsecurity has become a growing priority for governments and citizens alike on a global scale. Watch our webinar and discover the anticipated evolution of sophisticated attacker techniques in future elections.<br><br>>> Watch here: https://feye.io/2UIYiVB pic.twitter.com/iy0ETLIKXv<br>https://twitter.com/FireEye/status/1171136225593282560<br> |
+| Twitter | https://twitter.com/FireEye/status/1171136225593282560 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 18:18:57 |
+| Author | @securityaffairs |
+| Content | Symantec uncovered the link between #China-Linked #Thrip and #Billbug groups<br>https://securityaffairs.co/wordpress/91008/apt/thrip-link-billbug.html â¦<br>#securityaffairs #APT #hacking #malware<br>https://twitter.com/securityaffairs/status/1171125856825217024<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1171125856825217024 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 18:19:30 |
+| Author | @securityaffairs |
+| Content | #China-linked #APT3 was able to modify stolen #NSA cyberweapons .<br>https://securityaffairs.co/wordpress/90985/apt/apt3-change-nsa-cyber-weapons.html â¦<br>#securityaffairs #cybercrime #hacking #malware<br>https://twitter.com/securityaffairs/status/1171125996453580800<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1171125996453580800 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 17:00:01 |
+| Author | @TrendMicro |
+| Content | .@TrendMicro researcher @JaromirHorejsi will be discussing #MuddyWater once more, this time at #BalCCon2k19. More about this group here: http://bit.ly/2F1kyDA pic.twitter.com/BRrTInm7L<br>https://twitter.com/TrendMicroRSRCH/status/1171105993234796547<br> |
+| Twitter | https://twitter.com/TrendMicroRSRCH/status/1171105993234796547 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 17:00:01 |
+| Author | @TrendMicroRSRCH |
+| Content | .@TrendMicro researcher @JaromirHorejsi will be discussing #MuddyWater once more, this time at #BalCCon2k19. More about this group here: http://bit.ly/2F1kyDA pic.twitter.com/BRrTInm7L<br>https://twitter.com/TrendMicroRSRCH/status/1171105993234796547<br> |
+| Twitter | https://twitter.com/TrendMicroRSRCH/status/1171105993234796547 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 16:01:56 |
+| Author | @Anomali |
+| Content | We are thrilled to announce @VerodinInc as #Detect19 Platinum Sponsor and fellow Guardians of the Cyberverse! Verodin is the first business platform purpose-built to measure, manage, & improve #cybersecurity effectiveness through Security Instrumentation. https://hubs.ly/H0kC1FW0 pic.twitter.com/S08wNWePW7<br>https://twitter.com/Anomali/status/1171091376827772928<br> |
+| Twitter | https://twitter.com/Anomali/status/1171091376827772928 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 15:31:29 |
+| Author | @ZDNet |
+| Content | Newly discovered cyber-espionage malware abuses Windows BITS service https://www.zdnet.com/article/newly-discovered-cyber-espionage-malware-abuses-windows-bits-service/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d7670254b188d00011bfb02&utm_medium=trueAnthem&utm_source=twitter â¦<br>https://twitter.com/ZDNet/status/1171083712211161089<br> |
+| Twitter | https://twitter.com/ZDNet/status/1171083712211161089 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 14:30:46 |
+| Author | @helpnetsecurity |
+| Content | Most citizens are against local governments paying ransomware attackers - http://bit.ly/2I3ULfN  - @IBM @wendiwhitmore @MorningConsult #cybersecurity #government #ransomwarepic.twitter.com/qEVrHv70cB<br>https://twitter.com/helpnetsecurity/status/1171068431606722565<br> |
+| Twitter | https://twitter.com/helpnetsecurity/status/1171068431606722565 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 14:10:25 |
+| Author | @securityaffairs |
+| Content | @SymantecEMEA @symantec @SymantecANZ @SymantecASIA @Symantec_Japan Symantec uncovered the link between #China-Linked #Thrip and #Billbug groups<br>https://securityaffairs.co/wordpress/91008/apt/thrip-link-billbug.html â¦<br>#securityaffairs #APT #hacking #malware<br>https://twitter.com/securityaffairs/status/1171063312571932673<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1171063312571932673 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 14:11:28 |
+| Author | @securityaffairs |
+| Content | Symantec uncovered the link between #China-Linked #Thrip and #Billbug groups<br>https://securityaffairs.co/wordpress/91008/apt/thrip-link-billbug.html â¦<br>#securityaffairs #APT #hacking #malware<br>https://twitter.com/securityaffairs/status/1171063574338383872<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1171063574338383872 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 14:12:00 |
+| Author | @securityaffairs |
+| Content | #China-linked #APT3 was able to modify stolen #NSA cyberweapons<br>https://securityaffairs.co/wordpress/90985/apt/apt3-change-nsa-cyber-weapons.html â¦<br>#securityaffairs #cybercrime #hacking #malware<br>https://twitter.com/securityaffairs/status/1171063708686139398<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1171063708686139398 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 13:41:17 |
+| Author | @Arkbird_SOLG |
+| Content | #APT #Patchwork<br>Quick analysis on the Indian APT Patchwork who uses old techniques (CVE-2017-12824) for the event(s) of Pakistan delegation in Azerbaijan.https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Indian/APT/Patchwork/27-08-19/Malware%20analysis%2027-08-19.md â¦<br>https://twitter.com/Arkbird_SOLG/status/1171055980873957376<br> |
+| Twitter | https://twitter.com/Arkbird_SOLG/status/1171055980873957376 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 13:42:31 |
+| Author | @threatmeter |
+| Content | Cloud Atlas Uses Polymorphic Techniques to Avoid Detection: The group behind the Cloud Atlas advanced persistentâ¦https://goo.gl/fb/rCwZp4<br>https://twitter.com/threatmeter/status/1171056292326076416<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171056292326076416 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 12:41:21 |
+| Author | @DrunkBinary |
+| Content | Possible FANCY BEAR/APT28 implants<br>c8609af87250899e90ea6ae8fa50ba34<br>20ef449a4e967dce148ca8b07a90b0e4<br>a8ff5ab6beab00df28e60e68a1e8f5d<br>f4254b34ece1cc7bb6b7483583d5ad37<br><br>Triggering XAgent Signatures<br>https://twitter.com/DrunkBinary/status/1171040897368244225<br> |
+| Twitter | https://twitter.com/DrunkBinary/status/1171040897368244225 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 13:35:07 |
+| Author | @Swati_THN |
+| Content | A newly discovered backdoor #malwareâlinked to Stealth Falcon state-sponsored cyber-espionage groupâuses #Windows built-in BITS protocol to stealthily communicate and exfiltrate data to its remote C&C servers.<br><br>https://thehackernews.com/2019/09/stealthfalcon-virus-windows-bits.html?utm_source=social_share â¦<br><br>âby @unix_root<br>https://twitter.com/Swati_THN/status/1171054426955624448<br> |
+| Twitter | https://twitter.com/Swati_THN/status/1171054426955624448 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 12:20:55 |
+| Author | @Arkbird_SOLG |
+| Content | Interesting that Muddywater stop to use Powershell for the profiling. At the coding, the algorithm and the fake error for decoy the victim, this seems be Muddywater.<br>https://twitter.com/Arkbird_SOLG/status/1171035753280880640<br> |
+| Twitter | https://twitter.com/Arkbird_SOLG/status/1171035753280880640 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 12:35:08 |
+| Author | @Treadstone71LLC |
+| Content | CounterIntelligence training - prepare for the election. Get ready to counter the espionage of the adversaries @KeiserU @hodgesu @fgcu @FSWCollege @Rasmussen http://ow.ly/7Vxd30pugMP<br>https://twitter.com/Treadstone71LLC/status/1171039333056466945<br> |
+| Twitter | https://twitter.com/Treadstone71LLC/status/1171039333056466945 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 12:12:58 |
+| Author | @shotgunner101 |
+| Content | While China focuses on ensuring its financial national security, north korea attempts to do the same by trying to bypass sanctions, russia focuses on showing strength/punishing enemies/etc, the USA is using it for espionage/counter-terrorism/weaking military functions/politics<br>https://twitter.com/shotgunner101/status/1171033755617779712<br> |
+| Twitter | https://twitter.com/shotgunner101/status/1171033755617779712 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 12:14:37 |
+| Author | @shotgunner101 |
+| Content | Over all the actions of each countries government is "legal" by its own standards and encouraged internally by said governments. Each likely sells it as patriotic to "ensure their national security" in various types of phrasing.<br>https://twitter.com/shotgunner101/status/1171034168639336448<br> |
+| Twitter | https://twitter.com/shotgunner101/status/1171034168639336448 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:44:56 |
+| Author | @Rmy_Reserve |
+| Content | #APT #Bitte<br>Thanks @RedDrip7<br>Cc @Arkbird_SOLGhttps://twitter.com/RedDrip7/status/1170988245561294850 â¦<br>https://twitter.com/Rmy_Reserve/status/1171026699191898112<br> |
+| Twitter | https://twitter.com/Rmy_Reserve/status/1171026699191898112 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:52:18 |
+| Author | @threatmeter |
+| Content | Selio - Real Estate Directory SQL Injection & Persistent XSS: # Exploit Title: Selio - Real Estate Directory SQLâ¦ https://goo.gl/fb/me2gMR<br>https://twitter.com/threatmeter/status/1171028551841153024<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171028551841153024 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:52:18 |
+| Author | @threatmeter |
+| Content | Reality | Estate Multipurpose WordPress Theme Persistent XSS: # Exploit Title: Reality | Estate Multipurposeâ¦ https://goo.gl/fb/LpcjZn<br>https://twitter.com/threatmeter/status/1171028554433384448<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171028554433384448 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:29:24 |
+| Author | @threatmeter |
+| Content | Selio - Real Estate Directory SQL Injection & Persistent XSS: Topic: Selio - Real Estate Directory SQL Injectionâ¦ https://goo.gl/fb/mjbjZ5<br>https://twitter.com/threatmeter/status/1171022791916867584<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171022791916867584 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:29:25 |
+| Author | @threatmeter |
+| Content | Reality | Estate Multipurpose WordPress Theme Persistent XSS: Topic: Reality | Estate Multipurpose WordPress Themeâ¦ https://goo.gl/fb/4cSJRv<br>https://twitter.com/threatmeter/status/1171022793183518720<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171022793183518720 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:04:38 |
+| Author | @ZDNet |
+| Content | Newly discovered cyber-espionage malware abuses Windows BITS service https://zd.net/2N4aU8Q  by @campuscodi<br>https://twitter.com/ZDNet/status/1171016557851365376<br> |
+| Twitter | https://twitter.com/ZDNet/status/1171016557851365376 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:22:10 |
+| Author | @threatmeter |
+| Content | ì¤êµ­ì APT ê³µê²©ìë¤, ë¯¸êµ­ NSAì í´ ì°êµ¬í´ ë² ê¼...: ì¼ë§ ì ë¶í° ë²°ì¤í¬ì´ë¼ë í´ ì¬ì©íê¸° ììí APT3...NSA í´ê³¼ í¡ì¬ ì¤êµ­ í´ì»¤ë¤, NSAì ì¹¨í´ë ì¥ë¹ ê·¸ëë¡ ëê³  ë©´ë°í ì¡°ì¬íâ¦https://goo.gl/fb/qvB5Uo<br>https://twitter.com/threatmeter/status/1171020970716540929<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171020970716540929 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 11:22:11 |
+| Author | @threatmeter |
+| Content | Symantec finds a 'new' Chinese hacking group has actually been around for a decade: A Chinese cyber-espionageâ¦ https://goo.gl/fb/UwLcmc<br>https://twitter.com/threatmeter/status/1171020975808372741<br> |
+| Twitter | https://twitter.com/threatmeter/status/1171020975808372741 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 09:42:01 |
+| Author | @ESET |
+| Content | #Breaking: @ESETresearch has discovered a backdoor linked to #malware used by the Stealth Falcon group, an operator of targeted #spyware attacks against #journalists, activists & dissidents in the Middle East: https://bit.ly/313TIDM pic.twitter.com/OegS4pbHW7<br>https://twitter.com/ESET/status/1170995765713485824<br> |
+| Twitter | https://twitter.com/ESET/status/1170995765713485824 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 09:31:00 |
+| Author | @ESETresearch |
+| Content | #ESETresearch discovered a backdoor linked to #malware used by the Stealth Falcon group, an operator of targeted #spyware attacks against #journalists, activists and dissidents in the Middle East. https://welivesecurity.com/2019/09/09/backdoor-stealth-falcon-group/ â¦pic.twitter.com/pZaiTOHMYV<br>https://twitter.com/ESETresearch/status/1170992993362276352<br> |
+| Twitter | https://twitter.com/ESETresearch/status/1170992993362276352 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 08:40:12 |
+| Author | @blackorbird |
+| Content | #APT Campaign list about  vs<br>BITTER&Patchwork&White Company&Confucius vs TransparentTribe<br>report:<br>https://mp.weixin.qq.com/s/pJ-rnzB7VMZ0feM2X0ZrHA â¦<br>But the most interesting maybe is #WhiteCompany == #Patchwork ?<br>About and relate:<br>https://www.virustotal.com/gui/file/a8b7dc56bbd721224babdc99cf3f84bcb0f27a585c02002f35a494c2548d1088/detection â¦<br>https://www.alienvault.com/blogs/labs-research/off-the-shelf-rats-targeting-pakistan â¦<br>https://github.com/blackorbird/APT_REPORT/blob/master/WhiteCompany/WhiteCompanyOperationShaheenReport.pdf â¦pic.twitter.com/SZRgNXcg4G<br>https://twitter.com/blackorbird/status/1170980208435838976<br> |
+| Twitter | https://twitter.com/blackorbird/status/1170980208435838976 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 09:12:08 |
+| Author | @RedDrip7 |
+| Content | #Bitter has stolen the certificate signature of the #Sindh police IT department in Pakistan.<br><br>Found the Bitter's Backdoor frist seen at 2019-07-27ï¼in that time The certificate has not expired.@sindhpolicedmc<br>lnk:<br>https://www.virustotal.com/gui/file/a4169902e1740371e4105a94f0913226d89d0e4f3e4f482fa709853794516d0e/detection â¦<br>C2:hxxp://blth32serv.net/ourtyaz/qwe.phppic.twitter.com/k8xnvz3ecT<br>https://twitter.com/RedDrip7/status/1170988245561294850<br> |
+| Twitter | https://twitter.com/RedDrip7/status/1170988245561294850 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 08:00:06 |
+| Author | @cylanceinc |
+| Content | Inside the APT28 DLL Backdoor Blitz. This report is a follow-up to 'Flirting With IDA and APT28.' This time, researchers perform a deep dive on capabilities found in an #APT28 sample that reveals a backdoor capability... Learn more: https://bit.ly/344FKn7 pic.twitter.com/65VQCyrr33<br>https://twitter.com/cylanceinc/status/1170970118840619008<br> |
+| Twitter | https://twitter.com/cylanceinc/status/1170970118840619008 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 08:02:11 |
+| Author | @threatmeter |
+| Content | [Threatpost[ Chinaâs APT3 Pilfers Cyberweapons from the NSA The advanced persistent threat (APT) group known as APT3, which researchers across the board link to the Chinese government , has built a full in-house battery of exploits and cybertools collectâ¦https://ift.tt/312kfkV<br>https://twitter.com/threatmeter/status/1170970642994348032<br> |
+| Twitter | https://twitter.com/threatmeter/status/1170970642994348032 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 06:53:07 |
+| Author | @securityaffairs |
+| Content | @CheckPointSouth @CheckPointSW #China-linked #APT3 was able to modify stolen #NSA cyberweapons<br>https://securityaffairs.co/wordpress/90985/apt/apt3-change-nsa-cyber-weapons.html â¦<br>#securityaffairs #cybercrime #hacking #malware<br>https://twitter.com/securityaffairs/status/1170953261060382720<br> |
+| Twitter | https://twitter.com/securityaffairs/status/1170953261060382720 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 07:09:57 |
+| Author | @threatmeter |
+| Content | Nexos - Real Estate WordPress Theme SQL Injection & Persistent XSS Topic: Nexos - Real Estate WordPress Theme SQL Injection & Persistent XSS Risk: Medium Text:# Exploit Title: Nexos - Real Estate WordPress Theme SQL Injection & Persistent XSS  # Google Dâ¦ https://ift.tt/2QbPqcP<br>https://twitter.com/threatmeter/status/1170957499647909888<br> |
+| Twitter | https://twitter.com/threatmeter/status/1170957499647909888 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 06:10:01 |
+| Author | @Rmy_Reserve |
+| Content | #APT #Donot sample<br>Thanks @RedDrip7<br>@Arkbird_SOLGhttps://twitter.com/RedDrip7/status/1170896437229445120 â¦<br>https://twitter.com/Rmy_Reserve/status/1170942415479263233<br> |
+| Twitter | https://twitter.com/Rmy_Reserve/status/1170942415479263233 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 06:30:01 |
+| Author | @cylanceinc |
+| Content | #Video: Why Red Dragon 1949 Can Only Tell You SOME of the #Cybersecurity Stories He's Lived. If you think you know what is happening in the world of #cyberwarfare and #espionage... you may want to check in with @RedDragon1949. Full interview here: https://bit.ly/2zVYckc pic.twitter.com/5JREPUTtlT<br>https://twitter.com/cylanceinc/status/1170947449776738304<br> |
+| Twitter | https://twitter.com/cylanceinc/status/1170947449776738304 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 05:30:48 |
+| Author | @ZDNet |
+| Content | Terrorism, espionage, and cyber: ASIO's omne trium perfectumhttps://www.zdnet.com/article/terrorism-espionage-and-cyber-asios-omne-trium-perfectum/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d75e3704b188d00011bf2f5&utm_medium=trueAnthem&utm_source=twitter â¦<br>https://twitter.com/ZDNet/status/1170932544897990656<br> |
+| Twitter | https://twitter.com/ZDNet/status/1170932544897990656 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 05:27:14 |
+| Author | @threatmeter |
+| Content | [Threatpost[ Chinaâs APT3 Pilfers Cyberweapons from the NSA: The advanced persistent threat (APT) group known asâ¦https://goo.gl/fb/W1FxNc<br>https://twitter.com/threatmeter/status/1170931647862190080<br> |
+| Twitter | https://twitter.com/threatmeter/status/1170931647862190080 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 03:55:55 |
+| Author | @blackorbird |
+| Content | OId sample from #Oceanlotus<br>2018å¹´å¬å¸æ»ç»æ¥åè¡¥åå»ºè®®.doc<br>https://www.virustotal.com/gui/file/8d74d544396b57e6faa4f8fdf96a1a5e30b196d56c15f7cf05767a406708a6b2/detection â¦<br>2019å¹´2æäº¤ä»ä¼ææ.mht<br>https://www.virustotal.com/gui/file/17edbe4ea30d071203ede00f9585924c5b0b4293d453a09cb359d46bafaf8f07/detection â¦<br><br>Analysis report from antiy<br>https://www.antiy.net/p/the-latest-sample-analysis-of-oceanlotus-apt-attacks-against-china/ â¦<br>https://twitter.com/blackorbird/status/1170908666871963648<br> |
+| Twitter | https://twitter.com/blackorbird/status/1170908666871963648 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 03:07:19 |
+| Author | @RedDrip7 |
+| Content | An #Android attack sample, pretending to be #Kashmir News related APP, seems used by #Donot to target #Pakistan. News retrieved from official website (http://www.knskashmir.com ) gets displayed to confuse the victim and avoid being noticed.<br>c2:mangasiso[.]top<br>https://www.virustotal.com/gui/file/21e8d292059353cf519959ec32ffc279eb48febe294ee2a3543f83a7f69500e7/detection â¦pic.twitter.com/iCo2GZyRjo<br>https://twitter.com/RedDrip7/status/1170896437229445120<br> |
+| Twitter | https://twitter.com/RedDrip7/status/1170896437229445120 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 02:46:04 |
+| Author | @ZDNet |
+| Content | Government kicks off AU$15m pilot using data on Australians living with disabilityhttps://www.zdnet.com/article/government-kicks-off-au15m-pilot-using-data-on-australians-living-with-disability/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d75bcd4145a570001541685&utm_medium=trueAnthem&utm_source=twitter â¦<br>https://twitter.com/ZDNet/status/1170891090725089281<br> |
+| Twitter | https://twitter.com/ZDNet/status/1170891090725089281 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 03:00:03 |
+| Author | @cylanceinc |
+| Content | Government agencies are the high-profile targets that #cybercriminals dream of infiltrating. Watch this #webinarondemand and connect with our experts today and see how #BlackBerryCylance can prevent advanced threats that traditional AV cannot. https://bit.ly/2MLgA7u pic.twitter.com/npbIZa5BYT<br>https://twitter.com/cylanceinc/status/1170894607288324098<br> |
+| Twitter | https://twitter.com/cylanceinc/status/1170894607288324098 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-09 04:00:02 |
+| Author | @cylanceinc |
+| Content | #BlackBerryCylance vs.Traditional Security Approaches: Understanding Drives Informed Decisions. BlackBerry Cylance uses #AI to deliver #security solutions that change how organizations, governments, and end-users approach #endpointsecurity. Learn more: https://bit.ly/2HFGubb pic.twitter.com/VtugurLbWp<br>https://twitter.com/cylanceinc/status/1170909705822232582<br> |
+| Twitter | https://twitter.com/cylanceinc/status/1170909705822232582 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
+| Update | 2019-09-08 18:30:24 |
+| Author | @shotgunner101 |
+| Content | Yet were told @kaspersky is supposedly infiltrated/controlled by the Russian government. How is ANY of our US based companies any better?<br>https://twitter.com/shotgunner101/status/1170766350924570624<br> |
+| Twitter | https://twitter.com/shotgunner101/status/1170766350924570624 |
+
+
+| 项目 | 值 |
+| :-----| ---- |
 | Update | 2019-09-08 16:11:00 |
 | Author | @QW5kcmV3 |
 | Content | Marketing? Always. However, the point is adversaries have threat models as well. Using SLINGSHOT as an example, the CNO either didn't account for that vendor as a threat to that operation, OR they accepted the risk. Either way, a persistent threat actor burned the operation.<br>https://twitter.com/QW5kcmV3/status/1170731271758200832<br> |
