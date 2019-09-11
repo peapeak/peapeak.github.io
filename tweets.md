@@ -1,3 +1,73 @@
+# @blackorbird
+## 2019-09-11 02:47:57
+## #Turla #ComRAT #APT
+## MsJavaVM.dll
+## MSJAVAVM
+## dinpit.dll
+## fake Java Virtual Mashine
+## https://www.virustotal.com/gui/file/b6398dd27d6f9813388eef9cd2f9267ac039b88ff32ccfc3e9f5d290a2ab164c/details …
+## 2009 Old samplepic.twitter.com/G6c7Jru9Ii
+## https://twitter.com/blackorbird/status/1171616339863040000<br><br><br><br><br>
+# @blackorbird
+## 2019-09-11 03:44:48
+## another #Lazarus #NukeSped
+## 1e351e8d1321ba9011cc3f137e1aa857
+## 
+## C2:218.255.24.226
+## similar to usa catch and new upload.https://github.com/blackorbird/APT_REPORT/blob/master/International%20Strategic/Korea/usa-catch/6583f0cfa4f9191595d0543243d949420051418b80955956da5b9906ccae8b6f …
+## https://twitter.com/blackorbird/status/1171630645812060161<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-09-11 03:03:07
+## #APT #Turla
+## Thanks @blackorbird 
+## Cc,@Arkbird_SOLGhttps://twitter.com/blackorbird/status/1171616339863040000 …
+## https://twitter.com/Rmy_Reserve/status/1171620157279457280<br><br><br><br><br>
+# @bsmuir
+## 2019-09-11 01:23:50
+## @SentinelOne discuss the main motives behind threat actors; from financial, #cyberespionage, #hacktivism, bragging rights, to insider threats. #infosec #Cybersecurity #DFIR #cybercrime #malware #CISOhttps://lnkd.in/fgvvyBS 
+## https://twitter.com/bsmuir/status/1171595172448296960<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-09-11 02:27:59
+## What's Thrip? Symantec finds that a "new" Chinese hacking group has actually been around for a decade https://hubs.ly/H0kHYqN0  by @shanvavpic.twitter.com/g2vaIj4lop
+## https://twitter.com/CyberScoopNews/status/1171611316508876800<br><br><br><br><br>
+# @securityaffairs
+## 2019-09-10 21:17:21
+## Symantec uncovered the link between #China-Linked #Thrip and #Billbug groups
+## https://securityaffairs.co/wordpress/91008/apt/thrip-link-billbug.html …
+## #securityaffairs #APT #hacking #malware
+## https://twitter.com/securityaffairs/status/1171533139560132608<br><br><br><br><br>
+# @securityaffairs
+## 2019-09-10 21:17:48
+## #China-linked #APT3 was able to modify stolen #NSA cyberweapons
+## https://securityaffairs.co/wordpress/90985/apt/apt3-change-nsa-cyber-weapons.html …
+## #securityaffairs #cybercrime #hacking #malware
+## https://twitter.com/securityaffairs/status/1171533253603250179<br><br><br><br><br>
+# @attcyber
+## 2019-09-10 21:00:01
+## Newly discovered cyber-espionage #malware abuses Windows BITS service. Details here: http://spr.ly/6010ECPJj  @ZDNet #InfoSecpic.twitter.com/rffm48x5t7
+## https://twitter.com/attcyber/status/1171528779803459588<br><br><br><br><br>
+# @KorbenD_Intel
+## 2019-09-10 19:41:03
+## cc @securitydoggo Virginia-based government technology contractor "Miracle Systems"
+## https://twitter.com/KorbenD_Intel/status/1171508907199492096<br><br><br><br><br>
+# @sudosev
+## 2019-09-10 16:11:21
+## Also seen a lot of DonotGroup ramp up myself - lots of new C2s, new Android payloads.https://twitter.com/c1b3erb0y1nd1a/status/1171430296635330564 …
+## https://twitter.com/sudosev/status/1171456132105129987<br><br><br><br><br>
+# @MalwarePatrol
+## 2019-09-10 17:01:01
+## ESET researchers discovered a backdoor linked to malware used by the Stealth Falcon group, an operator of targeted spyware attacks against journalists, activists and dissidents in the Middle East. https://www.welivesecurity.com/2019/09/09/backdoor-stealth-falcon-group/ … via @welivesecurity
+## https://twitter.com/MalwarePatrol/status/1171468631537942533<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-09-10 14:35:30
+## Still Hagga account linked as #Gorgon account and use pastebin shares again. I have already analysed a similar TTPs. 
+## https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Pakistan/APT/Gorgon/23-08-19/Malware%20analysis%2025-08-19.md …
+## cc: @James_inthe_box @JAMESWT_MHT @HONKONE_K @0xffff0800pic.twitter.com/pJOXDfIPb9
+## https://twitter.com/Arkbird_SOLG/status/1171432013607268353<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-10 14:40:47
+## https://cyware.com/news/uscyber-command-releases-11-malware-samples-linked-with-north-korean-government-hackers-2f1e38e1 …
+## https://twitter.com/QW5kcmV3/status/1171433340068491265<br><br><br><br><br>
 # @securityaffairs
 ## 2019-09-10 13:35:38
 ## Symantec uncovered the link between #China-Linked #Thrip and #Billbug groups ...
