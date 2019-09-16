@@ -1,3 +1,363 @@
+# @QW5kcmV3
+## 2019-09-15 16:17:43
+## An example was when FIN6 was hot against a protected organization discussed in the linked blog. Traditional understandings of FIN6 revolved around point-of-sale targeting. However, we have to remember core motivation is monetization of intrusions.https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html …
+## https://twitter.com/QW5kcmV3/status/1173269676861861889<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-15 16:17:44
+## It is a pucker moment seeing a for-profit actor in an environment that doesn't have easy to monetize data or access. The level of effort to conduct a destructive attack and or ransoming event is vastly lower than stealth espionage or long term collection, say from point of sale.
+## https://twitter.com/QW5kcmV3/status/1173269681324593153<br><br><br><br><br>
+# @z3roTrust
+## 2019-09-15 14:30:10
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=EEzLfOl1568557810018 …
+## https://twitter.com/z3roTrust/status/1173242607515910144<br><br><br><br><br>
+# @ClearskySec
+## 2019-09-15 14:13:00
+## We have published our new report: The Kittens Are Back in Town Charming Kitten – Campaign Against Academic Researchershttps://www.clearskysec.com/the-kittens-are-back-in-town/ …
+## https://twitter.com/ClearskySec/status/1173238289685463040<br><br><br><br><br>
+# @Mr_ohadm
+## 2019-09-15 14:24:12
+## Very proud to share with you our latest report - The Kittens Are Back in Town - Charming Kitten's Campaign Against Academic Researchers. 2 stages of spear-phishing methods, at the second stage, for the first time, the group tries to impersonate @instagram.https://www.clearskysec.com/the-kittens-are-back-in-town/ …
+## https://twitter.com/Mr_ohadm/status/1173241106592686080<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-15 14:25:46
+## I hear governments are starting to crack down on proliferation of capability.
+## https://twitter.com/QW5kcmV3/status/1173241503147266048<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-09-15 13:54:09
+## Interesting, this matching with TTPs used by Gamaredon and if this is it, this target essentially Ukraine, the sample is released some days before the Day of the National Flag in Ukraine (23 August).
+## https://twitter.com/Arkbird_SOLG/status/1173233545898332161<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-15 13:47:58
+## If we look at Offensive Security's requirements to enroll, we find they require an official email address or government issued identification in order to participate in a knowledge transfer. Very interesting from an apex OFFSEC vendor. https://www.offensive-security.com/faq/ pic.twitter.com/afVChy85zT
+## https://twitter.com/QW5kcmV3/status/1173231989316567040<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-09-15 00:39:03
+## https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/ …https://securityaffairs.co/wordpress/89502/malware/evolution-aggah-roma225-campaign.html …
+## https://twitter.com/Arkbird_SOLG/status/1173033451907362816<br><br><br><br><br>
+# @cahlberg
+## 2019-09-15 03:35:49
+## Why should spying be transparent?As a taxpayer I expect my government to do some level of spying with only transparency being to solid regulatory oversight.
+## https://twitter.com/cahlberg/status/1173077938205536256<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-09-14 21:29:14
+## #APT #Gorgon
+## Analysis of the new samples (AZORult 3.3) of the Gorgon group. The TTPs and accounts rest the same.https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Pakistan/APT/Gorgon/09-09-19/Malware%20analysis%2009-09-19.md …
+## https://twitter.com/Arkbird_SOLG/status/1172985682278662144<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-14 21:19:58
+## I don't. I'd much rather the industry be security professionals and develop the mechanisms to ensure confidentiality, availability, and integrity of their tooling. This is a problem security professionals can improve, and we definitely don't want the government to do it for us.
+## https://twitter.com/QW5kcmV3/status/1172983348920233985<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-09-14 20:09:00
+## First, ty for the informations and I have confirm your sentence, this is frombook https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Pakistan/APT/Gorgon/23-08-19/Malware%20analysis%2025-08-19.md … 
+## https://twitter.com/Arkbird_SOLG/status/1172965489770934272<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-14 21:17:06
+## Lets look at an overlooked detail in this story. "were both charged with third-degree burglary and possession of burglary tools." Do we think the government will create a better solution to control the proliferation of tooling than industry minds?https://www.desmoinesregister.com/story/news/crime-and-courts/2019/09/11/men-arrested-burglary-dallas-county-iowa-courthouse-hired-judicial-branch-test-security-ia-crime/2292295001/ …
+## https://twitter.com/QW5kcmV3/status/1172982631417491456<br><br><br><br><br>
+# @TrendMicroRSRCH
+## 2019-09-14 17:00:00
+## Cybercriminals who deployed the #REvil #ransomware to 22 Texas local government units for a combined ransom amount of US$2.5 million did not get a single cent. Full details:http://bit.ly/2kDnHm0 
+## https://twitter.com/TrendMicroRSRCH/status/1172917928620187649<br><br><br><br><br>
+# @Anomali
+## 2019-09-14 18:01:04
+## The Stealth Falcon threat group, which is known for targeting political activists, dissidents and journalists since at least 2012, has been attributed to a newly-discovered backdoor, according to @ESET researchers. https://hubs.ly/H0kJWqf0 pic.twitter.com/KWIkl3eTFX
+## https://twitter.com/Anomali/status/1172933297313341440<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-09-14 15:52:39
+## Maybe it is 
+## But it's Gorgon's technique
+## https://twitter.com/Rmy_Reserve/status/1172900979169120256<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-14 16:00:17
+## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/wD1WJ4BMEV
+## https://twitter.com/cylanceinc/status/1172902899699146752<br><br><br><br><br>
+# @CyberSecInt
+## 2019-09-14 13:01:15
+## Wanted: 18-Year-Old Hackers to Boost Government’s Cyber Chops | Sign In http://ow.ly/YjaT30pvVBf  @DHSgov
+## https://twitter.com/CyberSecInt/status/1172857844955262977<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-09-14 12:20:00
+## FIN7's IT admin pleads guilty for role in billion-dollar cybercrime crewhttps://hubs.ly/H0kM9-f0 
+## https://twitter.com/CyberScoopNews/status/1172847462400364545<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-09-14 10:59:34
+## That's how Gorgon APT organized the sample
+## https://twitter.com/Rmy_Reserve/status/1172827224241664005<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-09-14 11:32:30
+## According to your picture 
+## I can clearly see that there are more victims in India 
+## And the Gorgon is targeting India
+## https://twitter.com/Rmy_Reserve/status/1172835509741047809<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-14 06:30:01
+## #Video: Why Red Dragon 1949 Can Only Tell You SOME of the #Cybersecurity Stories He's Lived. If you think you know what is happening in the world of #cyberwarfare and #espionage... you may want to check in with @RedDragon1949. Full interview here: https://bit.ly/2zVYckc pic.twitter.com/oMDFDvmCzs
+## https://twitter.com/cylanceinc/status/1172759389117329408<br><br><br><br><br>
+# @z3roTrust
+## 2019-09-14 06:24:17
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=i9toQ2E1568442257509 …
+## https://twitter.com/z3roTrust/status/1172757945144238080<br><br><br><br><br>
+# @cyberwar_15
+## 2019-09-14 02:40:34
+## 3곳은 북한 정찰총국 해킹조직(Lazarus)으로 그룹명만 세분화한 것이고, 블루노로프와 안다리엘은 라자루스 그룹으로 기억하셔도 무관합니다.
+## 
+## 지난 8월까지도 라자루스는 한국의 비트코인 관계자를 지속 공격하고 있는것이 공식확인되었습니다.
+## 
+## https://home.treasury.gov/news/press-releases/sm774 …http://www.yonhapnewstv.co.kr/MYH20190914002300038/?did=1825m …
+## https://twitter.com/cyberwar_15/status/1172701645269950464<br><br><br><br><br>
+# @bsmuir
+## 2019-09-14 03:44:42
+## #NATO identifies #Cybersecurity of Space as a weak spot. Via @ccdcoe. #infosec #cyberwar #cyberespionage https://lnkd.in/f_FsM6w 
+## https://twitter.com/bsmuir/status/1172717784750596097<br><br><br><br><br>
+# @threatmeter
+## 2019-09-14 01:44:32
+## ShadowTalk Update – Metasploit Project Publishes Exploit For Bluekeep, plus APT3 and Silence Cybercrime Group…https://goo.gl/fb/3r5kac 
+## https://twitter.com/threatmeter/status/1172687544422739968<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-13 18:00:18
+## #BlackBerryCylance vs.Traditional Security Approaches: Understanding Drives Informed Decisions. BlackBerry Cylance uses #AI to deliver #security solutions that change how organizations, governments, and end-users approach #endpointsecurity. Learn more: https://bit.ly/2HFGubb pic.twitter.com/9M0UWYfh24
+## https://twitter.com/cylanceinc/status/1172570714899144705<br><br><br><br><br>
+# @JAMESWT_MHT
+## 2019-09-13 23:38:29
+## -> " ed. Snip" 
+## *offensive intrusion and surveillance capabilities to governments, law enforcement agencies and corporations
+## 
+## https://twitter.com/JAMESWT_MHT/status/1172655822469513216<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-13 23:41:20
+## Gangster rap made me do it.https://www.fireeye.com/blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html …
+## https://twitter.com/QW5kcmV3/status/1172656539699748864<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-13 17:30:08
+## Join us in Singapore at @GovernmentWare at booth #D22 from October 1st - 3rd! Don't miss John McClurg's session about The Future of Security – How AI Will Liberate Us. #GovWare2019 More information here: https://bit.ly/2pfBdLe pic.twitter.com/0mA370G0D9
+## https://twitter.com/cylanceinc/status/1172563122982404097<br><br><br><br><br>
+# @FireEye
+## 2019-09-13 17:41:28
+## .@JohnHultquist discussed how FireEye has witnessed North Korea’s cyber-espionage apparatus grow into a significant state-run criminal venture in @business's article via @asebeniushttps://feye.io/34Kf8rO 
+## https://twitter.com/FireEye/status/1172565974253486082<br><br><br><br><br>
+# @CyberSecInt
+## 2019-09-13 16:30:26
+## ~ China’s Hackers Have Stolen EU, US & Global Secrets: #APT10 is a China-based #cybercrime group well known to the information security community that  has been hacking the rest of the world since 2014. http://ow.ly/5xun30nerdr  pic.twitter.com/J9PEZ8dpef @ChinaDaily
+## https://twitter.com/CyberSecInt/status/1172548099912417281<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-09-13 15:39:00
+## What's Thrip? Symantec finds that a "new" Chinese hacking group has actually been around for a decade https://hubs.ly/H0kLKvK0  by @shanvavpic.twitter.com/aIO2mTje5U
+## https://twitter.com/CyberScoopNews/status/1172535155334012929<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-13 16:39:27
+## I would note that job advertisements and other masquerades do not necessarily target the entity masqueraded as. That said, this server was used for POSHC2 and KOADIC. Use of publicly available frameworks continues by what is probably #APT33 .
+## https://twitter.com/QW5kcmV3/status/1172550369530077184<br><br><br><br><br>
+# @Anomali
+## 2019-09-13 15:11:21
+## @CheckPointSW researchers analyzed the “Bemstour” exploitation tool used by the China-based Advanced Persistent Threat, “APT3,” & were able to confirm that the group “recreated its own version of an Equation group exploit using captured network traffic.” https://hubs.ly/H0kJT400 pic.twitter.com/aE540bau7z
+## https://twitter.com/Anomali/status/1172528198346792960<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-13 15:13:41
+## I don't need shirts or excessive quotes to communicate the fact that tens of millions of people aren't simply going to allow a government to seize their property, specifically something that is owned to serve as a coercive threat against such act in the first place. Words matter.
+## https://twitter.com/QW5kcmV3/status/1172528783653593094<br><br><br><br><br>
+# @ESET
+## 2019-09-13 15:02:34
+## #WeLiveSecurity - Check out the latest #cybersecurity news in this Week in security with @TonyAtESET:  
+##  New Stealth Falcon Backdoor Discovered
+##  Selfie guide for parents
+##  Instagram vulnerability
+## For more news, visit http://welivesecurity.com https://bit.ly/32JEc0v 
+## https://twitter.com/ESET/status/1172525985914339328<br><br><br><br><br>
+# @z3roTrust
+## 2019-09-13 14:22:05
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=qlCPCIV1568384524944 …
+## https://twitter.com/z3roTrust/status/1172515797249511426<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-09-13 12:46:20
+## #APT #APT28
+## ITW:c01e87de07bc56589965aff67860f593
+## URL
+## https://www.virustotal.com/gui/file/47d42f6cf220d9ce5f1099e1d2218b6b03c9f5e9d2bf90701f2b1686469ec26e/detection …
+## CC
+## @DrunkBinary @Arkbird_SOLG @spider_girl22 @blackorbird
+## https://twitter.com/Rmy_Reserve/status/1172491702843531266<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-13 12:43:08
+## The key difference between a sophisticated named for-profit threat actor and a state nexus threat actor is the #FIN group uses JIRA and HipChat, and the #APT  uses Microsoft Excel and mIRC.  #threatintel  #FIN7 https://twitter.com/stonepwn3000/status/1172291011483029505 …pic.twitter.com/NCQxhmRSye
+## https://twitter.com/QW5kcmV3/status/1172490899504451588<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-13 07:00:12
+## Government agencies are the high-profile targets that #cybercriminals dream of infiltrating. Watch this #webinarondemand and connect with our experts today and see how #BlackBerryCylance can prevent advanced threats that traditional AV cannot. https://bit.ly/2MLgA7u pic.twitter.com/hXDH3SdnMK
+## https://twitter.com/cylanceinc/status/1172404596049711106<br><br><br><br><br>
+# @threatmeter
+## 2019-09-13 07:04:10
+## LimeSurvey 3.17.13 Cross Site Scripting LimeSurvey versions 3.17.13 and below suffer from reflective and persistent cross site scripting vulnerabilities. https://ift.tt/2ZYABhb 
+## https://twitter.com/threatmeter/status/1172405594218622979<br><br><br><br><br>
+# @FireEye
+## 2019-09-13 03:00:08
+## FireEye Knowledge Base | 
+## 
+## Extended: @FireEye Field Notice (#FEFN) #451_2: FireEye Email Security Cloud Edition Release 2019.8 Upgrade Maintenance, Commercial Americas, EMEA, APJ and Government Instances 
+## https://feye.io/34KFFpc 
+## https://twitter.com/FireEyeSupport/status/1172344181924085760<br><br><br><br><br>
+# @helpnetsecurity
+## 2019-09-13 06:45:06
+## Interacting with governments in the digital age: What do citizens think? http://bit.ly/31kLhUG  - @YouGov @unisyscorp @skingsbe #cybersecurity #privacy #data #governmentpic.twitter.com/JXWK0tyiLE
+## https://twitter.com/helpnetsecurity/status/1172400795486015489<br><br><br><br><br>
+# @bsmuir
+## 2019-09-12 23:43:24
+## Analysis of #StealthFalcon #backdoor by #ESET shows that it uses #Windows Background Intelligent Transfer Service (#BITS) for #C2 comms. Via @WeLiveSecurity. #infosec #Cybersecurity #DFIR #cybercrime #malware #cyberespionage #forensicshttps://lnkd.in/dQmsWN3 
+## https://twitter.com/bsmuir/status/1172294673244676102<br><br><br><br><br>
+# @MalwarePatrol
+## 2019-09-12 22:00:46
+## FIN7's IT admin pleads guilty for role in billion-dollar cybercrime crew. https://www.cyberscoop.com/fin7-fedir-hladyr-guilty-carbanak/ … via @CyberScoopNewspic.twitter.com/qW7fiui3Tt
+## https://twitter.com/MalwarePatrol/status/1172268841709309952<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-12 19:00:18
+## Inside the APT28 DLL Backdoor Blitz. This report is a follow-up to 'Flirting With IDA and APT28.' This time, researchers perform a deep dive on capabilities found in an #APT28 sample that reveals a backdoor capability... Learn more: https://bit.ly/344FKn7 pic.twitter.com/biusVbnDwm
+## https://twitter.com/cylanceinc/status/1172223426133729281<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-09-12 19:22:00
+## ICYMI: FIN7's IT admin pleads guilty for role in billion-dollar cybercrime crew https://hubs.ly/H0kK_P_0  by @jeffstone500
+## https://twitter.com/CyberScoopNews/status/1172228886396055557<br><br><br><br><br>
+# @JayTHL
+## 2019-09-12 18:09:38
+## incorrect.
+## rights are NOT things granted to you by the government.
+## your rights don't come from the Constitution.
+## 
+## goddamnit how did people get this ill-informed?
+## https://twitter.com/JayTHL/status/1172210674656825345<br><br><br><br><br>
+# @CyberSecInt
+## 2019-09-12 17:30:20
+## ~ What Is The Internet of Things? Fast becoming the one of the most important changes in business, the #IoT is also taking effect across government and social networks. http://ow.ly/FQD450w5g9u  #cybersecuritypic.twitter.com/8uR8vCagC5
+## https://twitter.com/CyberSecInt/status/1172200784060178432<br><br><br><br><br>
+# @TrendMicro
+## 2019-09-12 17:00:01
+## .@TrendMicro researcher @JaromirHorejsi will share his findings on #MuddyWater at #BalCCon2k19. More on this research:  http://bit.ly/2F1kyDA pic.twitter.com/5eTgAZ4lQD
+## https://twitter.com/TrendMicroRSRCH/status/1172193155518799873<br><br><br><br><br>
+# @TrendMicroRSRCH
+## 2019-09-12 17:00:01
+## .@TrendMicro researcher @JaromirHorejsi will share his findings on #MuddyWater at #BalCCon2k19. More on this research:  http://bit.ly/2F1kyDA pic.twitter.com/5eTgAZ4lQD
+## https://twitter.com/TrendMicroRSRCH/status/1172193155518799873<br><br><br><br><br>
+# @DataBreachToday
+## 2019-09-12 14:58:00
+## Government agencies field new and revised #cybersecurity maturity models — but are new/more models and frameworks the answer?
+## http://bit.ly/2UPi6GR  by @euroinfosec
+## 
+## POV via: Marcus Christian (@Mayer_Brown) + @cnoanalysis + @DrChrisPierson
+## https://twitter.com/DataBreachToday/status/1172162449014804481<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-09-12 12:37:13
+## Calling all tech, finance and government leaders! The most influential leaders in cybersecurity will be at New York CyberWeek next week, Sept. 16-20.  Register today to be a part of the nation's premier cyber festival. https://hubs.ly/H0kgpTv0 pic.twitter.com/Egm8p71UHW
+## https://twitter.com/CyberScoopNews/status/1172127019666202624<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-12 13:03:56
+## Merely cutting off access to new public tooling forces internal production and black market acquisitions. That can be targeted. Attribution and imposing cost takes time, especially where the standard is a prosecutable case, but it is happening:https://www.cyberscoop.com/fin7-fedir-hladyr-guilty-carbanak/ …
+## https://twitter.com/QW5kcmV3/status/1172133745220104192<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-12 13:05:55
+## What isn't discussed in this article is FIN7 uses Metasploit and other publicly available tools. That's cost they do not incur. That's subsidized tool development. How do you target the developer of Metasploit? You don't. It's a "security tool" publicly available.
+## https://twitter.com/QW5kcmV3/status/1172134243885096961<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-09-12 09:37:23
+## #APT #Confucius 
+## Remote template injection ——> rtf(cve—2017—11882) ——> dropfile(Confucius Trojan)
+## https://twitter.com/Rmy_Reserve/status/1172016149971619841 …pic.twitter.com/X29hM1FHiD
+## https://twitter.com/Rmy_Reserve/status/1172081762798751749<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-09-12 12:16:59
+## FIN7's IT admin pleads guilty for role in billion-dollar cybercrime crew https://hubs.ly/H0kKwvP0  by @jeffstone500
+## https://twitter.com/CyberScoopNews/status/1172121927965663234<br><br><br><br><br>
+# @blackorbird
+## 2019-09-12 02:30:00
+## #APT  Someone upload #Oceanlotus wwlib.dll from VN.
+## wwlib.dll_000176573_c__programdata_Intel.dll
+## wwlib.dll_000176573_c__programdata_Offices.dll
+## 
+## The name looks like the release path.
+## 
+## here can download
+## https://github.com/blackorbird/APT_REPORT/tree/master/Oceanlotus/sample …pic.twitter.com/BbIAI4C8BD
+## https://twitter.com/blackorbird/status/1171974210521989121<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-09-12 06:27:40
+## Interesting indeed, the last time that I have seen this, this early September with Bitter APT (remote template + download and execute RTF exploit)
+## https://twitter.com/Arkbird_SOLG/status/1172034022043717632<br><br><br><br><br>
+# @PaloAltoNtwks
+## 2019-09-11 20:52:01
+## Think like an adversary.  The @Unit42_Intel Playbook viewer is an archive of plays with listings like OilRig, Emissary Panda, Rocke Group, and more! Stay ahead of the threats, here: https://bit.ly/2PZ4Y3v  #cybersecuritypic.twitter.com/Ss2TaE9lxy
+## https://twitter.com/PaloAltoNtwks/status/1171889154961092609<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-09-11 22:24:52
+## FIN7's IT admin pleads guilty for role in billion-dollar cybercrime crew  https://hubs.ly/H0kK8Mx0  by @jeffstone500
+## https://twitter.com/CyberScoopNews/status/1171912521902678016<br><br><br><br><br>
+# @Unit42_Intel
+## 2019-09-11 20:19:01
+## Think like an adversary.  Our Playbook viewer is an archive of plays with listings like OilRig, Emissary Panda, Rocke Group, and more! Stay ahead of the threats, here: https://bit.ly/2PZ4Y3v  #cybersecuritypic.twitter.com/AOW3iLNq3H
+## https://twitter.com/Unit42_Intel/status/1171880849320677381<br><br><br><br><br>
+# @pancak3lullz
+## 2019-09-11 20:32:05
+## Newly uploaded.
+## APT33? #SpyNet 0/68
+## https://www.virustotal.com/gui/file/acd51ff0051cd7a90ca50f48c191ce2e222b81a7d1303173f33710028921024b/detection …
+## 
+## lots of similar files uploaded in the past few days with almost no detection...
+## 
+## found using YARA:https://pastebin.com/aLS3m4GQ 
+## https://twitter.com/pancak3lullz/status/1171884135822123009<br><br><br><br><br>
+# @DataBreachToday
+## 2019-09-11 19:17:00
+## US government ban on Kaspersky formalized 
+## http://bit.ly/303EYUl  by @Ferguson_Writes
+## https://twitter.com/DataBreachToday/status/1171865240734248960<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-11 19:09:57
+## So are we still hyperbolic? I imagine I'll be entertaining arguments such as "but that's one tool" or "we don't actually know if the Syrian government both used the tool AND murdered the same target, we just know they used the tool against dissidents AND murdered dissidents."
+## https://twitter.com/QW5kcmV3/status/1171863466287796224<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-11 18:09:06
+## The actors using DRIDEX and TRICKBOT deploy publicly available post exploitation frameworks for follow-on actions on objective. Traditionally, they used EMPIRE, now they use EMPIRE and PoshC2. That's widespread thread. FIN6, FIN7, FIN8, FIN9, and FIN10 also use public tooling.
+## https://twitter.com/QW5kcmV3/status/1171848154100260867<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-11 18:10:21
+## If we totally leave out the fact that up and coming as well as sophisticated (Turla) actors use publicly available tooling, because they're in a small number of organization's threat model (fair), and only focus on for-profit adversaries, we find it is almost 100% OFFSEC tooling.
+## https://twitter.com/QW5kcmV3/status/1171848468970840064<br><br><br><br><br>
+# @CyberSecInt
+## 2019-09-11 16:30:34
+## ~ What Is The Internet of Things?  Fast becoming the one of the most important changes in business, the #IoT is also taking effect across government and social networks. http://ow.ly/tEbg50w3Sp0 pic.twitter.com/FLCTBN8lAp
+## https://twitter.com/CyberSecInt/status/1171823359119765505<br><br><br><br><br>
+# @CyberSecInt
+## 2019-09-11 17:30:22
+## ~ Five Tech Trends Driving Cyber Security: #Cybersecurity is an area where the best interests of business, customers and government need to align. A leading CISO identifies the key issues. http://ow.ly/ik7t50w3U2u  @AvanadeIncpic.twitter.com/m2H6EQgCmN
+## https://twitter.com/CyberSecInt/status/1171838407468900352<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-11 17:26:20
+## It definitely propagated capability to the entire world, which enabled millions of dollars in losses and state sponsored espionage without any development costs. That increased threat certainly motivated those with the capability and capacity to address it.
+## https://twitter.com/QW5kcmV3/status/1171837390765330433<br><br><br><br><br>
+# @QW5kcmV3
+## 2019-09-11 15:36:47
+## Are we suggesting the private sector does not have a role in combating threat actors? The government patently disagrees. You can frame the issue whichever way you want, but the fact remains that adversaries choose OFFSEC tooling to conduct intrusions on a wide scale.
+## https://twitter.com/QW5kcmV3/status/1171809821961740289<br><br><br><br><br>
+# @SaudiDFIR
+## 2019-09-11 16:11:12
+## Recent APT-C-37 Attacks in the Middle East posted by AlienVault on @AlienVault OTX: /pulse/5d7916e3f619df83fd65778e/
+## https://twitter.com/SaudiDFIR/status/1171818483937681408<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-11 13:00:24
+## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/tFMWD506pa
+## https://twitter.com/cylanceinc/status/1171770465909694464<br><br><br><br><br>
+# @Manu_De_Lucia
+## 2019-09-11 14:24:58
+## May be #APT #Sykipot #MaverickPanda installer. 
+## Likely quite old but useful for further researches. 
+## md5:a689c341f22e05ecc8583bd279234808
+## https://twitter.com/Manu_De_Lucia/status/1171791750840631296<br><br><br><br><br>
+# @cylanceinc
+## 2019-09-11 09:00:05
+## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/OdYUZlyU7y
+## https://twitter.com/cylanceinc/status/1171709991302115328<br><br><br><br><br>
+# @teoseller
+## 2019-09-11 08:11:18
+## What do you want to say about this? ESET discovered an undocumented backdoor used by the infamous Stealth Falcon group
+##  https://buff.ly/2PYS7yb  di @welivesecuritypic.twitter.com/YTdtWcUZGk
+## https://twitter.com/teoseller/status/1171697714595323905<br><br><br><br><br>
 # @blackorbird
 ## 2019-09-11 02:47:57
 ## #Turla #ComRAT #APT
