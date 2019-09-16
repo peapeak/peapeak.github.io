@@ -1,3 +1,23 @@
+# @ZDNet
+## 2019-09-16 06:45:07
+## Optus takes wraps off customer concierge service to take NBN out of the equationhttps://zd.net/30mYWcA 
+## https://twitter.com/ZDNet/status/1173487964862566400<br><br><br><br><br>
+# @threatmeter
+## 2019-09-16 07:22:37
+## CVE-2019-16334 This vulnerability is currently undergoing analysis and not all information is available. Please check back soon to view the completed vulnerability summary
+## 
+## In Bludit v3.9.2, there is a persistent XSS vulnerability in the Categories -> Ad… https://ift.tt/2QeUBIX 
+## https://twitter.com/threatmeter/status/1173497401237221378<br><br><br><br><br>
+# @blackorbird
+## 2019-09-16 04:20:48
+## #APT Suspected #Lazarus New postscript code , New Tester
+## nopass.hwp
+## 25998781ca4930f770eeac4aab0f9fabpic.twitter.com/Bpd669hbxm
+## https://twitter.com/blackorbird/status/1173451647005024257<br><br><br><br><br>
+# @z3roTrust
+## 2019-09-16 06:33:04
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=CdqjBR31568615584241 …
+## https://twitter.com/z3roTrust/status/1173484930204151808<br><br><br><br><br>
 # @threatmeter
 ## 2019-09-16 01:29:18
 ## CVE-2019-16333: GetSimple CMS v3.3.15 has Persistent Cross-Site Scripting (XSS) in admin/theme-edit.php. https://goo.gl/fb/QP1Wek 
