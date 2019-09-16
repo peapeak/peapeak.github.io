@@ -1,3 +1,39 @@
+# @threatmeter
+## 2019-09-16 01:29:18
+## CVE-2019-16333: GetSimple CMS v3.3.15 has Persistent Cross-Site Scripting (XSS) in admin/theme-edit.php. https://goo.gl/fb/QP1Wek 
+## https://twitter.com/threatmeter/status/1173408487692333058<br><br><br><br><br>
+# @threatmeter
+## 2019-09-16 01:29:19
+## CVE-2019-16334: In Bludit v3.9.2, there is a persistent XSS vulnerability in the Categories -> Add New Category ->… https://goo.gl/fb/jFDYqn 
+## https://twitter.com/threatmeter/status/1173408489366085632<br><br><br><br><br>
+# @threatmeter
+## 2019-09-16 03:37:35
+## CVE-2019-16333: GetSimple CMS v3.3.15 has Persistent Cross-Site Scripting (XSS) in admin/theme-edit.php. (CVSS:0.0… https://goo.gl/fb/CNZoLs 
+## https://twitter.com/threatmeter/status/1173440769987895297<br><br><br><br><br>
+# @threatmeter
+## 2019-09-16 03:37:36
+## CVE-2019-16334: In Bludit v3.9.2, there is a persistent XSS vulnerability in the Categories -> Add New Category ->… https://goo.gl/fb/QW4JFM 
+## https://twitter.com/threatmeter/status/1173440772563263489<br><br><br><br><br>
+# @Timele9527
+## 2019-09-16 02:45:06
+## #APT #Gamaredon
+## ITW: 47b130a9f8c60ef60c39aff999e84e01bec680a65e71a4bf2531754cf46e82b5
+## FileName:
+## Документ Adobe Acrobat Reader AUTOSAVE DATA 260820191045.PDF.SCR
+## C2:http://kornet-ua.ddns[.]net/
+## ver:8.26pic.twitter.com/0dBjTfEebE
+## https://twitter.com/Timele9527/status/1173427562455810048<br><br><br><br><br>
+# @Timele9527
+## 2019-09-16 03:01:16
+## #APT #Donot
+## vhash: 9af13848d439416d1fa950bd339a9a76
+## report:
+## https://m.threatbook.cn/detail/1924 pic.twitter.com/ftPoCcfFQB
+## https://twitter.com/Timele9527/status/1173431630171492352<br><br><br><br><br>
+# @ZDNet
+## 2019-09-16 02:00:05
+## Government kicks off AU$15m pilot using data on Australians living with disabilityhttps://zd.net/2AkHqeL 
+## https://twitter.com/ZDNet/status/1173416232407592961<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-09-16 03:06:16
 ## #APT #Donot
