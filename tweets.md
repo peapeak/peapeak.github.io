@@ -1,3 +1,19 @@
+# @Rmy_Reserve
+## 2019-09-16 03:06:16
+## #APT #Donot
+## Thanks @Timele9527
+## @Arkbird_SOLGhttps://twitter.com/Timele9527/status/1173431630171492352 …
+## https://twitter.com/Rmy_Reserve/status/1173432889439993856<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-09-16 03:06:49
+## #APT #Gamaredon
+## Thanks @Timele9527
+## @Arkbird_SOLGhttps://twitter.com/Timele9527/status/1173427562455810048 …
+## https://twitter.com/Rmy_Reserve/status/1173433025624829953<br><br><br><br><br>
+# @attcyber
+## 2019-09-15 21:00:01
+## ICYMI: 31% of all #cyberespionage attacks are aimed at small businesses. Read our guest blog from @Checkthemcom to learn more about why small business owners should concern themselves with business espionage: http://spr.ly/6011ECLVL  #ATTCybersecuritypic.twitter.com/mKTmQk28wa
+## https://twitter.com/attcyber/status/1173340717432922112<br><br><br><br><br>
 # @QW5kcmV3
 ## 2019-09-15 16:17:43
 ## An example was when FIN6 was hot against a protected organization discussed in the linked blog. Traditional understandings of FIN6 revolved around point-of-sale targeting. However, we have to remember core motivation is monetization of intrusions.https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html …
